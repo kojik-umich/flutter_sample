@@ -47,9 +47,9 @@ dart
 dart.bat
 ```
 
-### VSCode の設定
+### VSCode の入手とプラグインの導入
 
-まずは公式から VSCode を[インストール](https://code.visualstudio.com/)してください．  
+まずは[公式](https://code.visualstudio.com/)から VSCode をインストールしてください．  
   
 次に，[ここ](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)からプラグインを入手してください．  
 
