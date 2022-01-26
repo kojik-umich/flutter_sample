@@ -6,7 +6,7 @@
 
 ここではWindowsの導入方法を説明します．Macはまた今度．なかしーすまん．  
 基本的には以下のサイトを参考にしてるので，不明点はここを見てください．  
-公式：https://docs.flutter.dev/get-started/install/windows
+公式：https://docs.flutter.dev/get-started/install/windows  
 初心者向け：https://qiita.com/apricotcomic/items/7ff53950e10fcff212d2
 
 ### Git の入手
