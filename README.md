@@ -27,9 +27,23 @@ git clone https://github.com/flutter/flutter.git -b stable
 
 ```console install
 cd {クローンした場所}\flutter\bin
+```
+
+一つ一つ順番に実行しましょう．（各1分くらいかかるかな？）
+
+```console flutter
 flutter
+```
+
+```console flutter.bat
 flutter.bat
+```
+
+```console dart
 dart
+```
+
+```console dart.bat
 dart.bat
 ```
 
