@@ -1,39 +1,36 @@
 # flutter_sample
 
-ã“ã‚Œã¯ NSK 117æœŸãƒ»åŒæœŸä¸€åŒã§ä½œæˆã™ã‚‹ flutter ã®æœ€åˆã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã™ï¼Ž
+‚±‚ê‚Í NSK 117ŠúE“¯Šúˆê“¯‚Åì¬‚·‚é flutter ‚ÌÅ‰‚ÌƒvƒƒWƒFƒNƒg‚Å‚·D
 
-## é–‹ç™ºç’°å¢ƒã®ä½œã‚Šæ–¹
+## ŠJ”­ŠÂ‹«‚Ìì‚è•û
 
-ã“ã“ã§ã¯Windowsã®å°Žå…¥æ–¹æ³•ã‚’èª¬æ˜Žã—ã¾ã™ï¼ŽMacã¯ã¾ãŸä»Šåº¦ï¼Žãªã‹ã—ãƒ¼ã™ã¾ã‚“ï¼Ž  
-åŸºæœ¬çš„ã«ã¯ä»¥ä¸‹ã®ã‚µã‚¤ãƒˆã‚’å‚è€ƒã«ã—ã¦ã‚‹ã®ã§ï¼Œä¸æ˜Žç‚¹ã¯ã“ã“ã‚’è¦‹ã¦ãã ã•ã„ï¼Ž  
+‚±‚±‚Å‚ÍWindows‚Ì“±“ü•û–@‚ðà–¾‚µ‚Ü‚·DMac‚Í‚Ü‚½¡“xD‚È‚©‚µ[‚·‚Ü‚ñD  
+Šî–{“I‚É‚ÍˆÈ‰º‚ÌƒTƒCƒg‚ðŽQl‚É‚µ‚Ä‚é‚Ì‚ÅC•s–¾“_‚Í‚±‚±‚ðŒ©‚Ä‚­‚¾‚³‚¢D  
 
-nakashima_test
+[ŒöŽ®](https://docs.flutter.dev/get-started/install/windows) / [‰SŽÒŒü‚¯](https://qiita.com/apricotcomic/items/7ff53950e10fcff212d2)
 
+### Git ‚Ì“üŽè
 
-[å…¬å¼](https://docs.flutter.dev/get-started/install/windows) / [åˆå¿ƒè€…å‘ã‘](https://qiita.com/apricotcomic/items/7ff53950e10fcff212d2)
+â‘Î“I‚É•K—v‚Å‚·D“ü‚ê‚Ä‚­‚¾‚³‚¢D[‚±‚ê](https://miya-system-works.com/blog/detail/128)‚Æ‚©‚ðŽQl‚ÉŠæ’£‚Á‚ÄD  
 
-### Git ã®å…¥æ‰‹
+### flutter ‚Ì“±“ü
 
-çµ¶å¯¾çš„ã«å¿…è¦ã§ã™ï¼Žå…¥ã‚Œã¦ãã ã•ã„ï¼Ž[ã“ã‚Œ](https://miya-system-works.com/blog/detail/128)ã¨ã‹ã‚’å‚è€ƒã«é ‘å¼µã£ã¦ï¼Ž  
-
-### flutter ã®å°Žå…¥
-
-Git ã® `clone` ã§å…¥æ‰‹ã—ã¾ã—ã‚‡ã†ï¼Žç·´ç¿’ã«ã‚‚ãªã‚‹ã—ï¼Ž  
-`Win+R` ã§ `cmd` ã¨æ‰“ã£ã¦ãã ã•ã„ï¼Ž  
-ãã®å¾Œï¼Œä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼Ž
+Git ‚Ì `clone` ‚Å“üŽè‚µ‚Ü‚µ‚å‚¤D—ûK‚É‚à‚È‚é‚µD  
+`Win+R` ‚Å `cmd` ‚Æ‘Å‚Á‚Ä‚­‚¾‚³‚¢D  
+‚»‚ÌŒãCˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢D
 
 ```console clone
-cd {ã‚¯ãƒ­ãƒ¼ãƒ³ã—ãŸã„å ´æ‰€} ï¼ˆæ¥ å´Žã¯C:\Gitï¼‰
+cd {ƒNƒ[ƒ“‚µ‚½‚¢êŠ} i“íè‚ÍC:\Gitj
 git clone https://github.com/flutter/flutter.git -b stable
 ```
 
-ãƒ•ã‚©ãƒ«ãƒ€ã« flutter ãŒå…¥ã£ã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã®å¾Œï¼Œæ¬¡ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼Ž
+ƒtƒHƒ‹ƒ_‚É flutter ‚ª“ü‚Á‚Ä‚¢‚é‚±‚Æ‚ðŠm”F‚ÌŒãCŽŸ‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢D
 
 ```console install
-cd {ã‚¯ãƒ­ãƒ¼ãƒ³ã—ãŸå ´æ‰€}\flutter\bin
+cd {ƒNƒ[ƒ“‚µ‚½êŠ}\flutter\bin
 ```
 
-ä¸€ã¤ä¸€ã¤é †ç•ªã«å®Ÿè¡Œã—ã¾ã—ã‚‡ã†ï¼Žï¼ˆå„1åˆ†ãã‚‰ã„ã‹ã‹ã‚‹ã‹ãªï¼Ÿï¼‰
+ˆê‚Âˆê‚Â‡”Ô‚ÉŽÀs‚µ‚Ü‚µ‚å‚¤DiŠe1•ª‚­‚ç‚¢‚©‚©‚é‚©‚ÈHj
 
 ```console flutter
 flutter
@@ -51,31 +48,31 @@ dart
 dart.bat
 ```
 
-### VSCode ã®å…¥æ‰‹ã¨ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®å°Žå…¥
+### VSCode ‚Ì“üŽè‚Æƒvƒ‰ƒOƒCƒ“‚Ì“±“ü
 
-ã¾ãšã¯[å…¬å¼](https://code.visualstudio.com/)ã‹ã‚‰ VSCode ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ãã ã•ã„ï¼Ž  
+‚Ü‚¸‚Í[ŒöŽ®](https://code.visualstudio.com/)‚©‚ç VSCode ‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‚­‚¾‚³‚¢D  
   
-æ¬¡ã«ï¼Œ[ã“ã“](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)ã‹ã‚‰ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’å…¥æ‰‹ã—ã¦ãã ã•ã„ï¼Ž  
+ŽŸ‚ÉC[‚±‚±](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)‚©‚çƒvƒ‰ƒOƒCƒ“‚ð“üŽè‚µ‚Ä‚­‚¾‚³‚¢D  
 
-### ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®å–å¾—
+### ‚±‚ÌƒvƒƒWƒFƒNƒg‚ÌŽæ“¾
 
-VSCode ã‚’èµ·å‹•ã—ã¦æœ€åˆã«å‡ºã‚‹ï¼Œ`Git ãƒªãƒã‚¸ãƒˆãƒªã®ã‚¯ãƒ­ãƒ¼ãƒ³...` ã‚’å®Ÿè¡Œã—ã¦ï¼Œ`https://github.com/kojik-umich/flutter_sample.git` ã‚’å…¥åŠ›ï¼Ž  
+VSCode ‚ð‹N“®‚µ‚ÄÅ‰‚Éo‚éC`Git ƒŠƒ|ƒWƒgƒŠ‚ÌƒNƒ[ƒ“...` ‚ðŽÀs‚µ‚ÄC`https://github.com/kojik-umich/flutter_sample.git` ‚ð“ü—ÍD  
 
-æ¬¡ã«ï¼Œã‚¯ãƒ­ãƒ¼ãƒ³ã—ãŸã„å ´æ‰€ã‚’é¸æŠžã—ã¦ãã ã•ã„ï¼Žæ¥ å´Žã¯ `Desktop` ã«ã—ã¾ã—ãŸï¼Ž
+ŽŸ‚ÉCƒNƒ[ƒ“‚µ‚½‚¢êŠ‚ð‘I‘ð‚µ‚Ä‚­‚¾‚³‚¢D“íè‚Í `Desktop` ‚É‚µ‚Ü‚µ‚½D
 
-## ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®å‹•ã‹ã—æ–¹
+## ‚±‚ÌƒvƒƒWƒFƒNƒg‚Ì“®‚©‚µ•û
 
-ã¾ãšã¯ãƒ•ã‚¡ã‚¤ãƒ«ã‚¨ã‚¯ã‚¹ãƒ—ãƒ­ãƒ¼ãƒ©ãƒ¼ã§ã‚¯ãƒ­ãƒ¼ãƒ³ã—ãŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆé–‹ã„ã¦ãã ã•ã„ï¼Ž  
-æ™®é€šã«ã‚„ã£ã¦ã‚Œã°ä½•ã‚‚ã—ãªãã¦ã‚‚é–‹ãã¯ãšã§ã™ï¼Ž
+‚Ü‚¸‚Íƒtƒ@ƒCƒ‹ƒGƒNƒXƒvƒ[ƒ‰[‚ÅƒNƒ[ƒ“‚µ‚½ƒvƒƒWƒFƒNƒgŠJ‚¢‚Ä‚­‚¾‚³‚¢D  
+•’Ê‚É‚â‚Á‚Ä‚ê‚Î‰½‚à‚µ‚È‚­‚Ä‚àŠJ‚­‚Í‚¸‚Å‚·D
 
-### ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®å‹•ã‹ã—æ–¹
+### ƒvƒƒOƒ‰ƒ€‚Ì“®‚©‚µ•û
 
-VScodeã§ `Ctrl+Shift+@` ã§ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã‚’èµ·å‹•ï¼Ž
+VScode‚Å `Ctrl+Shift+@` ‚Åƒ^[ƒ~ƒiƒ‹‚ð‹N“®D
 
 ```console this_project_run
-{flutterå…¥ã‚ŒãŸå ´æ‰€}\bin\flutter run
+{flutter“ü‚ê‚½êŠ}\bin\flutter run
 ```
 
-ã“ã‚Œã§ `1` ã‚’é¸æŠžã™ã‚Œã° Chrome ã§ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãŒç«‹ã¡ä¸ŠãŒã‚‹ã¯ãšã§ã™ï¼Ž  
+‚±‚ê‚Å `1` ‚ð‘I‘ð‚·‚ê‚Î Chrome ‚ÅƒvƒƒOƒ‰ƒ€‚ª—§‚¿ã‚ª‚é‚Í‚¸‚Å‚·D  
   
-ãŠã—ã¾ã„
+‚¨‚µ‚Ü‚¢
