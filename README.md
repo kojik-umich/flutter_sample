@@ -24,7 +24,7 @@ cd {クローンしたい場所} （楠崎はC:\Git）
 git clone https://github.com/flutter/flutter.git -b stable
 ```
 
-![cmd](picture\cmd.jpg)
+![cmd](picture/cmd.jpg)
 
 フォルダに flutter が入っていることを確認の後，次のコマンドを実行してください．
 
@@ -60,7 +60,7 @@ dart.bat
 
 VSCode を起動して最初に出る，`Git リポジトリのクローン...` を実行して，`https://github.com/kojik-umich/flutter_sample.git` を入力．  
 
-![VScode](picture\VScode.jpg)
+![VScode](picture/VScode.jpg)
 
 次に，クローンしたい場所を選択してください．楠崎は `Desktop` にしました．
 
@@ -73,7 +73,7 @@ VSCode を起動して最初に出る，`Git リポジトリのクローン...` を実行して，`https://
 
 VScodeで `Ctrl+Shift+@` でターミナルを起動．
 
-![terminal](picture\terminal.jpg)
+![terminal](picture/terminal.jpg)
 
 ```console this_project_run
 {flutter入れた場所}\bin\flutter run
@@ -81,6 +81,6 @@ VScodeで `Ctrl+Shift+@` でターミナルを起動．
 
 これで `1` を選択すれば Chrome でプログラムが立ち上がるはずです．  
   
-![Demo](picture\Demo.jpg)
+![Demo](picture/Demo.jpg)
 
 おしまい
